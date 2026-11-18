@@ -1,0 +1,5 @@
+# Pinned with uv on CPython 3.12.13. The source runs on Python 3.10+.
+opencv-python==5.1.0.95
+numpy==2.5.5
+requests==2.34.2
+python-dotenv==1.2.4

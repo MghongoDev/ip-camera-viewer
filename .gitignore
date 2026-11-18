@@ -1,0 +1,21 @@
+# Local environment and secrets
+.env
+.venv/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Generated media
+recordings/
+screenshots/
+*.log
+
+# Local editor and OS files
+.DS_Store
+.idea/
+.vscode/
+
+# Source material supplied for this assignment, not part of the shipped project
+ip-camera-viewer-implementation-guide.md
+Untitled Document
