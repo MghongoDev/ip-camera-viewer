@@ -1,4 +1,4 @@
-"""Unit tests for the pure helpers, run with python -m unittest discover -s tests."""
+"""Unit tests for the pure helpers (Issue #5), run with python -m unittest discover -s tests."""
 
 import os
 import tempfile

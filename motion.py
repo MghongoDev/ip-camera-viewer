@@ -1,6 +1,6 @@
 """Detect movement with frame differencing for the bonus feature.
 
-Bonus 7a of the implementation guide. See ADR-0007 (motion shares the recorder).
+Issue #7. See ADR-0007 (motion shares the recorder).
 """
 
 import cv2

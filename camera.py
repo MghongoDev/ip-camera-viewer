@@ -1,6 +1,6 @@
 """Validate the camera address and open the stream without hanging.
 
-Phases 2 and 5 of the implementation guide; TC02, TC03 and TC08.
+Issues #2 and #5; TC02, TC03 and TC08.
 See ADR-0002 (reachability probe) and ADR-0005 (self-signed TLS).
 """
 

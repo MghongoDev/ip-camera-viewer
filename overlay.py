@@ -1,6 +1,6 @@
 """Resize frames and draw the four overlays.
 
-Phase 3 of the implementation guide; TC04 and TC05; technical questions 7, 11 and 12.
+Issue #3; TC04 and TC05; technical questions 7, 11 and 12.
 See ADR-0006 (hand-written helpers).
 """
 

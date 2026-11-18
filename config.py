@@ -1,6 +1,6 @@
 """Read settings from the environment and expose them as module constants.
 
-Phase 1 of the implementation guide. See ADR-0001 (secrets) and ADR-0005 (TLS).
+Issue #1. See ADR-0001 (secrets) and ADR-0005 (TLS).
 """
 
 import os

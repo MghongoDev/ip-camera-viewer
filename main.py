@@ -1,7 +1,7 @@
 """Run the viewer loop and keep every exit path safe.
 
-Phases 2 to 5 of the implementation guide; TC01, TC02, TC03, TC06, TC07,
-TC08, TC09 and TC10. See ADR-0002, ADR-0003, ADR-0004 and ADR-0005.
+Issues #2, #3, #4 and #5; TC01, TC02, TC03, TC06, TC07, TC08, TC09 and TC10.
+See ADR-0002, ADR-0003, ADR-0004 and ADR-0005.
 """
 
 import logging

@@ -1,7 +1,6 @@
 """Write screenshots and recordings with names that never collide.
 
-Phase 4 of the implementation guide; TC06, TC07, TC09 and TC10;
-technical questions 13, 14 and 15.
+Issue #4; TC06, TC07, TC09 and TC10; technical questions 13, 14 and 15.
 See ADR-0004 (processing order) and ADR-0008 (file names).
 """
 
