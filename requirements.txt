@@ -1,4 +1,4 @@
-# Pinned with uv on CPython 3.12.13. The source runs on Python 3.10+.
+# Pinned with uv on CPython 3.12.13. numpy 2.5.5 needs Python 3.12+; the source runs on 3.10+ with older pins.
 opencv-python==5.1.0.95
 numpy==2.5.5
 requests==2.34.2
