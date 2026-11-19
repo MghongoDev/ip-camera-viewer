@@ -7,7 +7,7 @@ Use only a camera you own or have permission to use. Record only people and plac
 ## Requirements
 
 - Python 3.12 or newer. The pinned numpy needs 3.12. The source itself runs on 3.10 with older package pins.
-- An Android phone with the IP Webcam app.
+- An Android phone with the [IP Webcam](https://play.google.com/store/apps/details?id=com.pas.webcam) app.
 - The phone and the computer on the same Wi-Fi network.
 - The pinned packages listed in `requirements.txt`.
 
